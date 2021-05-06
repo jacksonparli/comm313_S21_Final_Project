@@ -1,12 +1,10 @@
 ## Data files for COMM313 Final Project
 
-* This folder should contain the data files you have used in your analysis
-
-
-* You should update this README file to list and describe the files.
-
-
-* You can also create additional sub-folders to better organize your data.
-    * For example, you could have a folder called `raw` or `orig` to contain the original data files you downloaded and then a folder called `final` or `clean` that contains versions of these data sheets that you have worked with to clean up missing data, to subset or merge etc.
+This folder has five items in it:
+    the json_files folder
+    the pop folder
+    the hyperpop folder
+    the data gathering notebook
+    and the functions notebook
     
-    
+The data gathering notebook is the notebook used to build the corpus. It created the files in both the json_files folder as well as the files in the pop and hyperpop folders. The functions notebook supports the data gathering notebook by providing any additional functions utilized to gather the corpus. The json_files folder contains json files for the 20 albums being analyzed in the project. The pop folder contains 10 text files with strings from each of the 10 pop albums, named after each album. The hyperpop folder contains the same, but with hyperpop albums instead.

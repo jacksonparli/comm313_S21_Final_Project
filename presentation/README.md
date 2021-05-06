@@ -1,10 +1,6 @@
 ## Progress presentation for COMM313 Final Project
 
-* This folder should contain the files for your project progress presentation.
+This presentation gave an update at where I am in completing this data analysis project.
+It gives a quick history of hyperpop, and details my research question and hypothesis. It then goes on to detail how the data was collected (Genius API) and a description of the data.
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. Share 1 or 2 interesting findings from your analysis so far.
-
-* Update this README file to describe the presentation.
+After describing the data, it discusses my preliminary keyness analysis of the data, and details my plans for the rest of the project.
